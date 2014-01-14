@@ -48,7 +48,7 @@ Two modes:
 </ul>
 <i><b>Note:</b></i> 
 <ul>
-  <li>if cell doesn't have enough neighbors (equal to L), it starts "dying". And cell can't be "alive", until it become "dead";</li>
+  <li>if cell doesn't have enough neighbors (equal to L), it starts "dying". And cell can't be "alive", until it becomes "dead";</li>
   <li>"dying" cell <b>IS NOT</b> "live" cell.</li>
 </ul>
 
