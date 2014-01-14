@@ -12,7 +12,7 @@
 <ul>
   <li>клетка "живет", когда у нее 2 или 3 "живых" соседа;</li>
   <li>клетка становится "живой", когда у нее 1 или 2 "живых" соседа;</li>
-  <li>клетка умирает за 5 шагов (таком образом, живая-1-2-3-4-5-мертвая).</li>
+  <li>клетка умирает за 5 шагов (таким образом, живая-1-2-3-4-5-мертвая).</li>
 </ul>
 Два режима:
 <ul>
@@ -31,7 +31,7 @@
 <h6><i>En:</i></h6>
 Cellular automaton with Moore neighborhood, conditions - L/A/C:
 <ul>
-  <li><b>L</b> - numbers from 0 to 8, determine the number of "live" neighbors, when the cell becomes "alive";</li>
+  <li><b>L</b> - numbers from 0 to 8, determine the number of "live" neighbors, when the cell stays "alive";</li>
   <li><b>A</b> - numbers from 0 to 8, determine the number of "live" neighbors, when "dead" cell becomes "live";</li>
   <li><b>C</b> - number determines the number of moves "dying" cells.</li>
 </ul>
@@ -39,7 +39,7 @@ For example 23/12/5:
 <ul>
   <li>cell "lives", when it has 2 or 3 "live" neighbors;</li>
   <li>cell becomes "alive", when it has 1 or 2 "live" neighbors;</li>
-  <li>cell will be dead after 5 steps (this way: live-1-2-3-4-5-dead).</li>
+  <li>cell "dies" in 5 steps (this way: live-1-2-3-4-5-dead).</li>
 </ul>
 Two modes:
 <ul>
@@ -52,5 +52,5 @@ Two modes:
   <li>"dying" cell <b>IS NOT</b> "live" cell.</li>
 </ul>
 
-Better to use grid 60x60.<br> 
+It is better to use grid 60x60.<br> 
 Few examples:<br>  bugs_23_2_8.txt (L = 23, A = 2, C = 8), <br> fire_2_2_25.txt (L = 23, A = 2, C = 25), <br> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9).
