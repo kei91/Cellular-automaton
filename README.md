@@ -26,7 +26,7 @@
 </ul>
 
 Лучше всего использовать сетку 60х60.<br> 
-Несколько примеров: 
+Несколько примеров (ссылки на видео): 
 <br> <a href="http://www.youtube.com/watch?v=YT14LIYJ3nM"> bugs_23_2_8.txt (L = 23, A = 2, C = 8) </a>, 
 <br> <a href="http://www.youtube.com/watch?v=43-kxhowO-k"> fire_2_2_25.txt (L = 23, A = 2, C = 25) </a>, 
 <br> <a href="http://www.youtube.com/watch?v=YGZkp0rDffw"> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9) </a>.
@@ -56,7 +56,7 @@ Two modes:
 </ul>
 
 It is better to use grid 60x60.<br> 
-Few examples:
+Few examples (click to the link to watch video):
 <br> <a href="http://www.youtube.com/watch?v=YT14LIYJ3nM"> bugs_23_2_8.txt (L = 23, A = 2, C = 8) </a>, 
 <br> <a href="http://www.youtube.com/watch?v=43-kxhowO-k"> fire_2_2_25.txt (L = 23, A = 2, C = 25) </a>, 
 <br> <a href="http://www.youtube.com/watch?v=YGZkp0rDffw"> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9) </a>.
