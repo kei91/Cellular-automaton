@@ -26,7 +26,10 @@
 </ul>
 
 Лучше всего использовать сетку 60х60.<br> 
-Несколько примеров: <br> bugs_23_2_8.txt (L = 23, A = 2, C = 8), <br> fire_2_2_25.txt (L = 23, A = 2, C = 25), <br> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9).
+Несколько примеров: 
+<br> <a href="http://www.youtube.com/watch?v=YT14LIYJ3nM"> bugs_23_2_8.txt (L = 23, A = 2, C = 8) </a>, 
+<br> <a href="http://www.youtube.com/watch?v=43-kxhowO-k"> fire_2_2_25.txt (L = 23, A = 2, C = 25) </a>, 
+<br> <a href="http://www.youtube.com/watch?v=YGZkp0rDffw"> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9) </a>.
 
 <h6><i>En:</i></h6>
 Cellular automaton with Moore neighborhood, conditions - L/A/C:
@@ -53,4 +56,7 @@ Two modes:
 </ul>
 
 It is better to use grid 60x60.<br> 
-Few examples:<br>  bugs_23_2_8.txt (L = 23, A = 2, C = 8), <br> fire_2_2_25.txt (L = 23, A = 2, C = 25), <br> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9).
+Few examples:
+<br> <a href="http://www.youtube.com/watch?v=YT14LIYJ3nM"> bugs_23_2_8.txt (L = 23, A = 2, C = 8) </a>, 
+<br> <a href="http://www.youtube.com/watch?v=43-kxhowO-k"> fire_2_2_25.txt (L = 23, A = 2, C = 25) </a>, 
+<br> <a href="http://www.youtube.com/watch?v=YGZkp0rDffw"> flame_235678_3468_9.txt (L = 235678, A = 3468, C = 9) </a>.
